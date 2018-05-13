@@ -1,0 +1,9 @@
+Add image/file names in text section, fix formatting of some text sections
+
+- Add image name ("<pXXX.gif>") to run_results001-199.csv text sections
+- Fix sudoku grid formatting in problem 96 text section
+- Fix table formatting on problem 107 text section
+- Change empty cell filler from -"- to -
+- Add <> around filenames in text section
+- Remove "(right click and 'Save Link/Target As...')" following some file names in text section
+- Remove spacer.gif image from all entries of run_results001-199.gif (image is just a filler, no valuable info)
