@@ -1,5 +1,5 @@
 {
-    "0": {
+    "1": {
         "info": {
             "solved": 748992, 
             "publish": "Friday, 5th October 2001, 06:00 pm", 
@@ -15,7 +15,7 @@
         }, 
         "images": []
     }, 
-    "1": {
+    "2": {
         "info": {
             "solved": 601939, 
             "publish": "Friday, 19th October 2001, 06:00 pm", 
@@ -31,7 +31,7 @@
         }, 
         "images": []
     }, 
-    "2": {
+    "3": {
         "info": {
             "solved": 431052, 
             "publish": "Friday, 2nd November 2001, 06:00 pm", 
@@ -47,7 +47,7 @@
         }, 
         "images": []
     }, 
-    "3": {
+    "4": {
         "info": {
             "solved": 383801, 
             "publish": "Friday, 16th November 2001, 06:00 pm", 
@@ -63,7 +63,7 @@
         }, 
         "images": []
     }, 
-    "4": {
+    "5": {
         "info": {
             "solved": 392256, 
             "publish": "Friday, 30th November 2001, 06:00 pm", 
@@ -79,7 +79,7 @@
         }, 
         "images": []
     }, 
-    "5": {
+    "6": {
         "info": {
             "solved": 394583, 
             "publish": "Friday, 14th December 2001, 06:00 pm", 
@@ -95,7 +95,7 @@
         }, 
         "images": []
     }, 
-    "6": {
+    "7": {
         "info": {
             "solved": 337769, 
             "publish": "Friday, 28th December 2001, 06:00 pm", 
@@ -111,7 +111,7 @@
         }, 
         "images": []
     }, 
-    "7": {
+    "8": {
         "info": {
             "solved": 285425, 
             "publish": "Friday, 11th January 2002, 06:00 pm", 
@@ -127,7 +127,7 @@
         }, 
         "images": []
     }, 
-    "8": {
+    "9": {
         "info": {
             "solved": 288206, 
             "publish": "Friday, 25th January 2002, 06:00 pm", 
@@ -143,7 +143,7 @@
         }, 
         "images": []
     }, 
-    "9": {
+    "10": {
         "info": {
             "solved": 264421, 
             "publish": "Friday, 8th February 2002, 06:00 pm", 
@@ -159,7 +159,7 @@
         }, 
         "images": []
     }, 
-    "10": {
+    "11": {
         "info": {
             "solved": 191753, 
             "publish": "Friday, 22nd February 2002, 06:00 pm", 
@@ -175,7 +175,7 @@
         }, 
         "images": []
     }, 
-    "11": {
+    "12": {
         "info": {
             "solved": 179164, 
             "publish": "Friday, 8th March 2002, 06:00 pm", 
@@ -191,7 +191,7 @@
         }, 
         "images": []
     }, 
-    "12": {
+    "13": {
         "info": {
             "solved": 184824, 
             "publish": "Friday, 22nd March 2002, 06:00 pm", 
@@ -207,7 +207,7 @@
         }, 
         "images": []
     }, 
-    "13": {
+    "14": {
         "info": {
             "solved": 184351, 
             "publish": "Friday, 5th April 2002, 06:00 pm", 
@@ -223,7 +223,7 @@
         }, 
         "images": []
     }, 
-    "14": {
+    "15": {
         "info": {
             "solved": 152447, 
             "publish": "Friday, 19th April 2002, 06:00 pm", 
@@ -244,7 +244,7 @@
             }
         ]
     }, 
-    "15": {
+    "16": {
         "info": {
             "solved": 186548, 
             "publish": "Friday, 3rd May 2002, 06:00 pm", 
@@ -260,7 +260,7 @@
         }, 
         "images": []
     }, 
-    "16": {
+    "17": {
         "info": {
             "solved": 124102, 
             "publish": "Friday, 17th May 2002, 06:00 pm", 
@@ -276,7 +276,7 @@
         }, 
         "images": []
     }, 
-    "17": {
+    "18": {
         "info": {
             "solved": 119289, 
             "publish": "Friday, 31st May 2002, 06:00 pm", 
@@ -292,7 +292,7 @@
         }, 
         "images": []
     }, 
-    "18": {
+    "19": {
         "info": {
             "solved": 110864, 
             "publish": "Friday, 14th June 2002, 06:00 pm", 
@@ -308,7 +308,7 @@
         }, 
         "images": []
     }, 
-    "19": {
+    "20": {
         "info": {
             "solved": 163569, 
             "publish": "Friday, 21st June 2002, 06:00 pm", 
@@ -324,7 +324,7 @@
         }, 
         "images": []
     }, 
-    "20": {
+    "21": {
         "info": {
             "solved": 119559, 
             "publish": "Friday, 5th July 2002, 06:00 pm", 
@@ -340,7 +340,7 @@
         }, 
         "images": []
     }, 
-    "21": {
+    "22": {
         "info": {
             "solved": 110479, 
             "publish": "Friday, 19th July 2002, 06:00 pm", 
@@ -361,7 +361,7 @@
         }, 
         "images": []
     }, 
-    "22": {
+    "23": {
         "info": {
             "solved": 84864, 
             "publish": "Friday, 2nd August 2002, 06:00 pm", 
@@ -377,7 +377,7 @@
         }, 
         "images": []
     }, 
-    "23": {
+    "24": {
         "info": {
             "solved": 94343, 
             "publish": "Friday, 16th August 2002, 06:00 pm", 
@@ -393,7 +393,7 @@
         }, 
         "images": []
     }, 
-    "24": {
+    "25": {
         "info": {
             "solved": 127694, 
             "publish": "Friday, 30th August 2002, 06:00 pm", 
@@ -409,7 +409,7 @@
         }, 
         "images": []
     }, 
-    "25": {
+    "26": {
         "info": {
             "solved": 68464, 
             "publish": "Friday, 13th September 2002, 06:00 pm", 
@@ -425,7 +425,7 @@
         }, 
         "images": []
     }, 
-    "26": {
+    "27": {
         "info": {
             "solved": 71603, 
             "publish": "Friday, 27th September 2002, 06:00 pm", 
@@ -441,7 +441,7 @@
         }, 
         "images": []
     }, 
-    "27": {
+    "28": {
         "info": {
             "solved": 90106, 
             "publish": "Friday, 11th October 2002, 06:00 pm", 
@@ -457,7 +457,7 @@
         }, 
         "images": []
     }, 
-    "28": {
+    "29": {
         "info": {
             "solved": 86011, 
             "publish": "Friday, 25th October 2002, 06:00 pm", 
@@ -473,7 +473,7 @@
         }, 
         "images": []
     }, 
-    "29": {
+    "30": {
         "info": {
             "solved": 90121, 
             "publish": "Friday, 8th November 2002, 06:00 pm", 
@@ -489,7 +489,7 @@
         }, 
         "images": []
     }, 
-    "30": {
+    "31": {
         "info": {
             "solved": 68910, 
             "publish": "Friday, 22nd November 2002, 06:00 pm", 
@@ -505,7 +505,7 @@
         }, 
         "images": []
     }, 
-    "31": {
+    "32": {
         "info": {
             "solved": 58159, 
             "publish": "Friday, 6th December 2002, 06:00 pm", 
@@ -521,7 +521,7 @@
         }, 
         "images": []
     }, 
-    "32": {
+    "33": {
         "info": {
             "solved": 58812, 
             "publish": "Friday, 20th December 2002, 06:00 pm", 
@@ -537,7 +537,7 @@
         }, 
         "images": []
     }, 
-    "33": {
+    "34": {
         "info": {
             "solved": 77456, 
             "publish": "Friday, 3rd January 2003, 06:00 pm", 
@@ -553,7 +553,7 @@
         }, 
         "images": []
     }, 
-    "34": {
+    "35": {
         "info": {
             "solved": 69877, 
             "publish": "Friday, 17th January 2003, 06:00 pm", 
@@ -569,7 +569,7 @@
         }, 
         "images": []
     }, 
-    "35": {
+    "36": {
         "info": {
             "solved": 73610, 
             "publish": "Friday, 31st January 2003, 06:00 pm", 
@@ -585,7 +585,7 @@
         }, 
         "images": []
     }, 
-    "36": {
+    "37": {
         "info": {
             "solved": 60399, 
             "publish": "Friday, 14th February 2003, 06:00 pm", 
@@ -601,7 +601,7 @@
         }, 
         "images": []
     }, 
-    "37": {
+    "38": {
         "info": {
             "solved": 51468, 
             "publish": "Friday, 28th February 2003, 06:00 pm", 
@@ -617,7 +617,7 @@
         }, 
         "images": []
     }, 
-    "38": {
+    "39": {
         "info": {
             "solved": 59848, 
             "publish": "Friday, 14th March 2003, 06:00 pm", 
@@ -633,7 +633,7 @@
         }, 
         "images": []
     }, 
-    "39": {
+    "40": {
         "info": {
             "solved": 65986, 
             "publish": "Friday, 28th March 2003, 06:00 pm", 
@@ -649,7 +649,7 @@
         }, 
         "images": []
     }, 
-    "40": {
+    "41": {
         "info": {
             "solved": 55714, 
             "publish": "Friday, 11th April 2003, 06:00 pm", 
@@ -665,7 +665,7 @@
         }, 
         "images": []
     }, 
-    "41": {
+    "42": {
         "info": {
             "solved": 61627, 
             "publish": "Friday, 25th April 2003, 06:00 pm", 
@@ -686,7 +686,7 @@
         }, 
         "images": []
     }, 
-    "42": {
+    "43": {
         "info": {
             "solved": 48616, 
             "publish": "Friday, 9th May 2003, 06:00 pm", 
@@ -702,7 +702,7 @@
         }, 
         "images": []
     }, 
-    "43": {
+    "44": {
         "info": {
             "solved": 47198, 
             "publish": "Friday, 23rd May 2003, 06:00 pm", 
@@ -718,7 +718,7 @@
         }, 
         "images": []
     }, 
-    "44": {
+    "45": {
         "info": {
             "solved": 58614, 
             "publish": "Friday, 6th June 2003, 06:00 pm", 
@@ -734,7 +734,7 @@
         }, 
         "images": []
     }, 
-    "45": {
+    "46": {
         "info": {
             "solved": 49948, 
             "publish": "Friday, 20th June 2003, 06:00 pm", 
@@ -750,7 +750,7 @@
         }, 
         "images": []
     }, 
-    "46": {
+    "47": {
         "info": {
             "solved": 47203, 
             "publish": "Friday, 4th July 2003, 06:00 pm", 
@@ -766,7 +766,7 @@
         }, 
         "images": []
     }, 
-    "47": {
+    "48": {
         "info": {
             "solved": 94022, 
             "publish": "Friday, 18th July 2003, 06:00 pm", 
@@ -782,7 +782,7 @@
         }, 
         "images": []
     }, 
-    "48": {
+    "49": {
         "info": {
             "solved": 47191, 
             "publish": "Friday, 1st August 2003, 06:00 pm", 
@@ -798,7 +798,7 @@
         }, 
         "images": []
     }, 
-    "49": {
+    "50": {
         "info": {
             "solved": 50819, 
             "publish": "Friday, 15th August 2003, 06:00 pm", 
@@ -814,7 +814,7 @@
         }, 
         "images": []
     }, 
-    "50": {
+    "51": {
         "info": {
             "solved": 26651, 
             "publish": "Friday, 29th August 2003, 06:00 pm", 
@@ -830,7 +830,7 @@
         }, 
         "images": []
     }, 
-    "51": {
+    "52": {
         "info": {
             "solved": 53845, 
             "publish": "Friday, 12th September 2003, 06:00 pm", 
@@ -846,7 +846,7 @@
         }, 
         "images": []
     }, 
-    "52": {
+    "53": {
         "info": {
             "solved": 48524, 
             "publish": "Friday, 26th September 2003, 06:00 pm", 
@@ -862,7 +862,7 @@
         }, 
         "images": []
     }, 
-    "53": {
+    "54": {
         "info": {
             "solved": 28648, 
             "publish": "Friday, 10th October 2003, 06:00 pm", 
@@ -883,7 +883,7 @@
         }, 
         "images": []
     }, 
-    "54": {
+    "55": {
         "info": {
             "solved": 44144, 
             "publish": "Friday, 24th October 2003, 06:00 pm", 
@@ -899,7 +899,7 @@
         }, 
         "images": []
     }, 
-    "55": {
+    "56": {
         "info": {
             "solved": 47875, 
             "publish": "Friday, 7th November 2003, 06:00 pm", 
@@ -915,7 +915,7 @@
         }, 
         "images": []
     }, 
-    "56": {
+    "57": {
         "info": {
             "solved": 33602, 
             "publish": "Friday, 21st November 2003, 06:00 pm", 
@@ -931,7 +931,7 @@
         }, 
         "images": []
     }, 
-    "57": {
+    "58": {
         "info": {
             "solved": 32540, 
             "publish": "Friday, 5th December 2003, 06:00 pm", 
@@ -947,7 +947,7 @@
         }, 
         "images": []
     }, 
-    "58": {
+    "59": {
         "info": {
             "solved": 34088, 
             "publish": "Friday, 19th December 2003, 06:00 pm", 
@@ -968,7 +968,7 @@
         }, 
         "images": []
     }, 
-    "59": {
+    "60": {
         "info": {
             "solved": 20882, 
             "publish": "Friday, 2nd January 2004, 06:00 pm", 
@@ -984,7 +984,7 @@
         }, 
         "images": []
     }, 
-    "60": {
+    "61": {
         "info": {
             "solved": 20324, 
             "publish": "Friday, 16th January 2004, 06:00 pm", 
@@ -1000,7 +1000,7 @@
         }, 
         "images": []
     }, 
-    "61": {
+    "62": {
         "info": {
             "solved": 25083, 
             "publish": "Friday, 30th January 2004, 06:00 pm", 
@@ -1016,7 +1016,7 @@
         }, 
         "images": []
     }, 
-    "62": {
+    "63": {
         "info": {
             "solved": 35109, 
             "publish": "Friday, 13th February 2004, 06:00 pm", 
@@ -1032,7 +1032,7 @@
         }, 
         "images": []
     }, 
-    "63": {
+    "64": {
         "info": {
             "solved": 17676, 
             "publish": "Friday, 27th February 2004, 06:00 pm", 
@@ -1048,7 +1048,7 @@
         }, 
         "images": []
     }, 
-    "64": {
+    "65": {
         "info": {
             "solved": 24334, 
             "publish": "Friday, 12th March 2004, 06:00 pm", 
@@ -1064,7 +1064,7 @@
         }, 
         "images": []
     }, 
-    "65": {
+    "66": {
         "info": {
             "solved": 15698, 
             "publish": "Friday, 26th March 2004, 06:00 pm", 
@@ -1080,7 +1080,7 @@
         }, 
         "images": []
     }, 
-    "66": {
+    "67": {
         "info": {
             "solved": 80379, 
             "publish": "Friday, 9th April 2004, 06:00 pm", 
@@ -1099,9 +1099,14 @@
             "text": "By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.\n3\n7 4\n2 4 6\n8 5 9 3\nThat is, 3 + 7 + 4 + 9 = 23.\nFind the maximum total from top to bottom in <triangle.txt>, a 15K text file containing a triangle with one-hundred rows.\nNOTE: This is a much more difficult version of Problem 18. It is not possible to try every route to solve this problem, as there are 299 altogether! If you could check one trillion (1012) routes every second it would take over twenty billion years to check them all. There is an efficient algorithm to solve it. ;o)", 
             "html": "<p>By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.</p><p style=\"text-align:center;font-family:'courier new';font-size:12pt;\"><span style=\"color:#ff0000;\"><b>3</b></span><br><span style=\"color:#ff0000;\"><b>7</b></span> 4<br>2 <span style=\"color:#ff0000;\"><b>4</b></span> 6<br>8 5 <span style=\"color:#ff0000;\"><b>9</b></span> 3</p><p>That is, 3 + 7 + 4 + 9 = 23.</p><p>Find the maximum total from top to bottom in <a href=\"project/resources/p067_triangle.txt\">triangle.txt</a> (right click and 'Save Link/Target As...'), a 15K text file containing a triangle with one-hundred rows.</p><p class=\"note\"><b>NOTE:</b> This is a much more difficult version of <a href=\"problem=18\">Problem 18</a>. It is not possible to try every route to solve this problem, as there are 2<sup>99</sup> altogether! If you could check one trillion (10<sup>12</sup>) routes every second it would take over twenty billion years to check them all. There is an efficient algorithm to solve it. ;o)</p>"
         }, 
-        "images": []
+        "images": [
+            {
+                "url": "https://projecteuler.net/project/images/p068_2.gif", 
+                "name": "p068_2.gif"
+            }
+        ]
     }, 
-    "67": {
+    "68": {
         "info": {
             "solved": 16608, 
             "publish": "Friday, 23rd April 2004, 06:00 pm", 
@@ -1119,14 +1124,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p068_1.gif", 
                 "name": "p068_1.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p068_2.gif", 
-                "name": "p068_2.gif"
             }
         ]
     }, 
-    "68": {
+    "69": {
         "info": {
             "solved": 27666, 
             "publish": "Friday, 7th May 2004, 06:00 pm", 
@@ -1142,7 +1143,7 @@
         }, 
         "images": []
     }, 
-    "69": {
+    "70": {
         "info": {
             "solved": 17920, 
             "publish": "Friday, 21st May 2004, 06:00 pm", 
@@ -1158,7 +1159,7 @@
         }, 
         "images": []
     }, 
-    "70": {
+    "71": {
         "info": {
             "solved": 23452, 
             "publish": "Friday, 4th June 2004, 06:00 pm", 
@@ -1174,7 +1175,7 @@
         }, 
         "images": []
     }, 
-    "71": {
+    "72": {
         "info": {
             "solved": 17908, 
             "publish": "Friday, 18th June 2004, 06:00 pm", 
@@ -1190,7 +1191,7 @@
         }, 
         "images": []
     }, 
-    "72": {
+    "73": {
         "info": {
             "solved": 20397, 
             "publish": "Friday, 2nd July 2004, 06:00 pm", 
@@ -1206,7 +1207,7 @@
         }, 
         "images": []
     }, 
-    "73": {
+    "74": {
         "info": {
             "solved": 21533, 
             "publish": "Friday, 16th July 2004, 06:00 pm", 
@@ -1222,7 +1223,7 @@
         }, 
         "images": []
     }, 
-    "74": {
+    "75": {
         "info": {
             "solved": 14308, 
             "publish": "Friday, 30th July 2004, 06:00 pm", 
@@ -1238,7 +1239,7 @@
         }, 
         "images": []
     }, 
-    "75": {
+    "76": {
         "info": {
             "solved": 23122, 
             "publish": "Friday, 13th August 2004, 06:00 pm", 
@@ -1254,7 +1255,7 @@
         }, 
         "images": []
     }, 
-    "76": {
+    "77": {
         "info": {
             "solved": 15245, 
             "publish": "Friday, 27th August 2004, 06:00 pm", 
@@ -1270,7 +1271,7 @@
         }, 
         "images": []
     }, 
-    "77": {
+    "78": {
         "info": {
             "solved": 13404, 
             "publish": "Friday, 10th September 2004, 06:00 pm", 
@@ -1286,7 +1287,7 @@
         }, 
         "images": []
     }, 
-    "78": {
+    "79": {
         "info": {
             "solved": 34921, 
             "publish": "Friday, 17th September 2004, 06:00 pm", 
@@ -1307,7 +1308,7 @@
         }, 
         "images": []
     }, 
-    "79": {
+    "80": {
         "info": {
             "solved": 16031, 
             "publish": "Friday, 8th October 2004, 06:00 pm", 
@@ -1323,7 +1324,7 @@
         }, 
         "images": []
     }, 
-    "80": {
+    "81": {
         "info": {
             "solved": 28250, 
             "publish": "Friday, 22nd October 2004, 06:00 pm", 
@@ -1344,7 +1345,7 @@
         }, 
         "images": []
     }, 
-    "81": {
+    "82": {
         "info": {
             "solved": 17126, 
             "publish": "Friday, 5th November 2004, 06:00 pm", 
@@ -1365,7 +1366,7 @@
         }, 
         "images": []
     }, 
-    "82": {
+    "83": {
         "info": {
             "solved": 14659, 
             "publish": "Friday, 19th November 2004, 06:00 pm", 
@@ -1386,7 +1387,7 @@
         }, 
         "images": []
     }, 
-    "83": {
+    "84": {
         "info": {
             "solved": 10006, 
             "publish": "Friday, 3rd December 2004, 06:00 pm", 
@@ -1402,7 +1403,7 @@
         }, 
         "images": []
     }, 
-    "84": {
+    "85": {
         "info": {
             "solved": 20078, 
             "publish": "Friday, 17th December 2004, 06:00 pm", 
@@ -1423,7 +1424,7 @@
             }
         ]
     }, 
-    "85": {
+    "86": {
         "info": {
             "solved": 10113, 
             "publish": "Friday, 7th January 2005, 06:00 pm", 
@@ -1444,7 +1445,7 @@
             }
         ]
     }, 
-    "86": {
+    "87": {
         "info": {
             "solved": 16821, 
             "publish": "Friday, 21st January 2005, 06:00 pm", 
@@ -1460,7 +1461,7 @@
         }, 
         "images": []
     }, 
-    "87": {
+    "88": {
         "info": {
             "solved": 7832, 
             "publish": "Friday, 4th February 2005, 06:00 pm", 
@@ -1476,7 +1477,7 @@
         }, 
         "images": []
     }, 
-    "88": {
+    "89": {
         "info": {
             "solved": 17625, 
             "publish": "Friday, 18th February 2005, 06:00 pm", 
@@ -1497,7 +1498,7 @@
         }, 
         "images": []
     }, 
-    "89": {
+    "90": {
         "info": {
             "solved": 8814, 
             "publish": "Friday, 4th March 2005, 06:00 pm", 
@@ -1515,10 +1516,14 @@
             {
                 "url": "https://projecteuler.net/project/images/p090.gif", 
                 "name": "p090.gif"
+            }, 
+            {
+                "url": "https://projecteuler.net/project/images/p091_2.gif", 
+                "name": "p091_2.gif"
             }
         ]
     }, 
-    "90": {
+    "91": {
         "info": {
             "solved": 12414, 
             "publish": "Friday, 18th March 2005, 06:00 pm", 
@@ -1536,14 +1541,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p091_1.gif", 
                 "name": "p091_1.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p091_2.gif", 
-                "name": "p091_2.gif"
             }
         ]
     }, 
-    "91": {
+    "92": {
         "info": {
             "solved": 34540, 
             "publish": "Friday, 1st April 2005, 06:00 pm", 
@@ -1559,7 +1560,7 @@
         }, 
         "images": []
     }, 
-    "92": {
+    "93": {
         "info": {
             "solved": 9291, 
             "publish": "Friday, 15th April 2005, 06:00 pm", 
@@ -1575,7 +1576,7 @@
         }, 
         "images": []
     }, 
-    "93": {
+    "94": {
         "info": {
             "solved": 9704, 
             "publish": "Friday, 29th April 2005, 06:00 pm", 
@@ -1591,7 +1592,7 @@
         }, 
         "images": []
     }, 
-    "94": {
+    "95": {
         "info": {
             "solved": 11314, 
             "publish": "Friday, 13th May 2005, 06:00 pm", 
@@ -1607,7 +1608,7 @@
         }, 
         "images": []
     }, 
-    "95": {
+    "96": {
         "info": {
             "solved": 13601, 
             "publish": "Friday, 27th May 2005, 06:00 pm", 
@@ -1628,7 +1629,7 @@
         }, 
         "images": []
     }, 
-    "96": {
+    "97": {
         "info": {
             "solved": 36760, 
             "publish": "Friday, 10th June 2005, 06:00 pm", 
@@ -1644,7 +1645,7 @@
         }, 
         "images": []
     }, 
-    "97": {
+    "98": {
         "info": {
             "solved": 8967, 
             "publish": "Friday, 17th June 2005, 06:00 pm", 
@@ -1665,7 +1666,7 @@
         }, 
         "images": []
     }, 
-    "98": {
+    "99": {
         "info": {
             "solved": 24955, 
             "publish": "Friday, 1st July 2005, 06:00 pm", 
@@ -1686,7 +1687,7 @@
         }, 
         "images": []
     }, 
-    "99": {
+    "100": {
         "info": {
             "solved": 12931, 
             "publish": "Friday, 15th July 2005, 06:00 pm", 
@@ -1702,7 +1703,7 @@
         }, 
         "images": []
     }, 
-    "100": {
+    "101": {
         "info": {
             "solved": 8917, 
             "publish": "Friday, 29th July 2005, 06:00 pm", 
@@ -1718,7 +1719,7 @@
         }, 
         "images": []
     }, 
-    "101": {
+    "102": {
         "info": {
             "solved": 17691, 
             "publish": "Friday, 12th August 2005, 06:00 pm", 
@@ -1739,7 +1740,7 @@
         }, 
         "images": []
     }, 
-    "102": {
+    "103": {
         "info": {
             "solved": 6286, 
             "publish": "Friday, 26th August 2005, 06:00 pm", 
@@ -1755,7 +1756,7 @@
         }, 
         "images": []
     }, 
-    "103": {
+    "104": {
         "info": {
             "solved": 13239, 
             "publish": "Friday, 9th September 2005, 06:00 pm", 
@@ -1771,7 +1772,7 @@
         }, 
         "images": []
     }, 
-    "104": {
+    "105": {
         "info": {
             "solved": 6308, 
             "publish": "Friday, 23rd September 2005, 06:00 pm", 
@@ -1792,7 +1793,7 @@
         }, 
         "images": []
     }, 
-    "105": {
+    "106": {
         "info": {
             "solved": 5030, 
             "publish": "Friday, 7th October 2005, 06:00 pm", 
@@ -1806,9 +1807,14 @@
             "text": "Let S(A) represent the sum of elements in set A of size n. We shall call it a special sum set if for any two non-empty disjoint subsets, B and C, the following properties are true:\nS(B) \u2260 S(C); that is, sums of subsets cannot be equal.\nIf B contains more elements than C then S(B) > S(C).\nFor this problem we shall assume that a given set contains n strictly increasing elements and it already satisfies the second rule.\nSurprisingly, out of the 25 possible subset pairs that can be obtained from a set for which n = 4, only 1 of these pairs need to be tested for equality (first rule). Similarly, when n = 7, only 70 out of the 966 subset pairs need to be tested.\nFor n = 12, how many of the 261625 subset pairs that can be obtained need to be tested for equality?\nNOTE: This problem is related to Problem 103 and Problem 105.", 
             "html": "<p>Let S(A) represent the sum of elements in set A of size <i>n</i>. We shall call it a special sum set if for any two non-empty disjoint subsets, B and C, the following properties are true:</p><ol style=\"list-style-type:lower-roman;\"><li>S(B) \u2260 S(C); that is, sums of subsets cannot be equal.</li><li>If B contains more elements than C then S(B) &gt; S(C).</li></ol><p>For this problem we shall assume that a given set contains <i>n</i> strictly increasing elements and it already satisfies the second rule.</p><p>Surprisingly, out of the 25 possible subset pairs that can be obtained from a set for which <i>n</i> = 4, only 1 of these pairs need to be tested for equality (first rule). Similarly, when <i>n</i> = 7, only 70 out of the 966 subset pairs need to be tested.</p><p>For <i>n</i> = 12, how many of the 261625 subset pairs that can be obtained need to be tested for equality?</p><p class=\"note\">NOTE: This problem is related to <a href=\"problem=103\">Problem 103</a> and <a href=\"problem=105\">Problem 105</a>.</p>"
         }, 
-        "images": []
+        "images": [
+            {
+                "url": "https://projecteuler.net/project/images/p107_2.gif", 
+                "name": "p107_2.gif"
+            }
+        ]
     }, 
-    "106": {
+    "107": {
         "info": {
             "solved": 8900, 
             "publish": "Friday, 21st October 2005, 06:00 pm", 
@@ -1831,14 +1837,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p107_1.gif", 
                 "name": "p107_1.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p107_2.gif", 
-                "name": "p107_2.gif"
             }
         ]
     }, 
-    "107": {
+    "108": {
         "info": {
             "solved": 10353, 
             "publish": "Friday, 4th November 2005, 06:00 pm", 
@@ -1854,7 +1856,7 @@
         }, 
         "images": []
     }, 
-    "108": {
+    "109": {
         "info": {
             "solved": 6441, 
             "publish": "Friday, 18th November 2005, 06:00 pm", 
@@ -1875,7 +1877,7 @@
             }
         ]
     }, 
-    "109": {
+    "110": {
         "info": {
             "solved": 6518, 
             "publish": "Friday, 2nd December 2005, 06:00 pm", 
@@ -1891,7 +1893,7 @@
         }, 
         "images": []
     }, 
-    "110": {
+    "111": {
         "info": {
             "solved": 5714, 
             "publish": "Friday, 16th December 2005, 06:00 pm", 
@@ -1907,7 +1909,7 @@
         }, 
         "images": []
     }, 
-    "111": {
+    "112": {
         "info": {
             "solved": 20003, 
             "publish": "Friday, 30th December 2005, 06:00 pm", 
@@ -1923,7 +1925,7 @@
         }, 
         "images": []
     }, 
-    "112": {
+    "113": {
         "info": {
             "solved": 8993, 
             "publish": "Friday, 10th February 2006, 06:00 pm", 
@@ -1939,7 +1941,7 @@
         }, 
         "images": []
     }, 
-    "113": {
+    "114": {
         "info": {
             "solved": 8700, 
             "publish": "Friday, 17th February 2006, 06:00 pm", 
@@ -1955,7 +1957,7 @@
         }, 
         "images": []
     }, 
-    "114": {
+    "115": {
         "info": {
             "solved": 7957, 
             "publish": "Friday, 24th February 2006, 06:00 pm", 
@@ -1971,7 +1973,7 @@
         }, 
         "images": []
     }, 
-    "115": {
+    "116": {
         "info": {
             "solved": 9731, 
             "publish": "Friday, 3rd March 2006, 06:00 pm", 
@@ -1987,7 +1989,7 @@
         }, 
         "images": []
     }, 
-    "116": {
+    "117": {
         "info": {
             "solved": 8928, 
             "publish": "Friday, 10th March 2006, 06:00 pm", 
@@ -2003,7 +2005,7 @@
         }, 
         "images": []
     }, 
-    "117": {
+    "118": {
         "info": {
             "solved": 5431, 
             "publish": "Friday, 24th March 2006, 06:00 pm", 
@@ -2019,7 +2021,7 @@
         }, 
         "images": []
     }, 
-    "118": {
+    "119": {
         "info": {
             "solved": 9919, 
             "publish": "Friday, 7th April 2006, 06:00 pm", 
@@ -2035,7 +2037,7 @@
         }, 
         "images": []
     }, 
-    "119": {
+    "120": {
         "info": {
             "solved": 11294, 
             "publish": "Friday, 21st April 2006, 06:00 pm", 
@@ -2051,7 +2053,7 @@
         }, 
         "images": []
     }, 
-    "120": {
+    "121": {
         "info": {
             "solved": 7826, 
             "publish": "Friday, 19th May 2006, 06:00 pm", 
@@ -2067,7 +2069,7 @@
         }, 
         "images": []
     }, 
-    "121": {
+    "122": {
         "info": {
             "solved": 6157, 
             "publish": "Friday, 2nd June 2006, 06:00 pm", 
@@ -2083,7 +2085,7 @@
         }, 
         "images": []
     }, 
-    "122": {
+    "123": {
         "info": {
             "solved": 9371, 
             "publish": "Friday, 16th June 2006, 06:00 pm", 
@@ -2099,7 +2101,7 @@
         }, 
         "images": []
     }, 
-    "123": {
+    "124": {
         "info": {
             "solved": 11338, 
             "publish": "Friday, 14th July 2006, 06:00 pm", 
@@ -2115,7 +2117,7 @@
         }, 
         "images": []
     }, 
-    "124": {
+    "125": {
         "info": {
             "solved": 11058, 
             "publish": "Friday, 4th August 2006, 06:00 pm", 
@@ -2131,7 +2133,7 @@
         }, 
         "images": []
     }, 
-    "125": {
+    "126": {
         "info": {
             "solved": 3678, 
             "publish": "Friday, 18th August 2006, 06:00 pm", 
@@ -2152,7 +2154,7 @@
             }
         ]
     }, 
-    "126": {
+    "127": {
         "info": {
             "solved": 4894, 
             "publish": "Friday, 1st September 2006, 06:00 pm", 
@@ -2168,7 +2170,7 @@
         }, 
         "images": []
     }, 
-    "127": {
+    "128": {
         "info": {
             "solved": 3917, 
             "publish": "Friday, 29th September 2006, 06:00 pm", 
@@ -2189,7 +2191,7 @@
             }
         ]
     }, 
-    "128": {
+    "129": {
         "info": {
             "solved": 5022, 
             "publish": "Friday, 27th October 2006, 06:00 pm", 
@@ -2205,7 +2207,7 @@
         }, 
         "images": []
     }, 
-    "129": {
+    "130": {
         "info": {
             "solved": 4729, 
             "publish": "Friday, 27th October 2006, 06:00 pm", 
@@ -2221,7 +2223,7 @@
         }, 
         "images": []
     }, 
-    "130": {
+    "131": {
         "info": {
             "solved": 5922, 
             "publish": "Friday, 10th November 2006, 06:00 pm", 
@@ -2237,7 +2239,7 @@
         }, 
         "images": []
     }, 
-    "131": {
+    "132": {
         "info": {
             "solved": 5085, 
             "publish": "Friday, 1st December 2006, 06:00 pm", 
@@ -2253,7 +2255,7 @@
         }, 
         "images": []
     }, 
-    "132": {
+    "133": {
         "info": {
             "solved": 4396, 
             "publish": "Friday, 1st December 2006, 06:00 pm", 
@@ -2269,7 +2271,7 @@
         }, 
         "images": []
     }, 
-    "133": {
+    "134": {
         "info": {
             "solved": 5587, 
             "publish": "Friday, 15th December 2006, 06:00 pm", 
@@ -2285,7 +2287,7 @@
         }, 
         "images": []
     }, 
-    "134": {
+    "135": {
         "info": {
             "solved": 5083, 
             "publish": "Friday, 29th December 2006, 06:00 pm", 
@@ -2301,7 +2303,7 @@
         }, 
         "images": []
     }, 
-    "135": {
+    "136": {
         "info": {
             "solved": 4458, 
             "publish": "Friday, 29th December 2006, 06:00 pm", 
@@ -2317,7 +2319,7 @@
         }, 
         "images": []
     }, 
-    "136": {
+    "137": {
         "info": {
             "solved": 4322, 
             "publish": "Friday, 12th January 2007, 06:00 pm", 
@@ -2333,7 +2335,7 @@
         }, 
         "images": []
     }, 
-    "137": {
+    "138": {
         "info": {
             "solved": 4600, 
             "publish": "Saturday, 20th January 2007, 11:00 am", 
@@ -2354,7 +2356,7 @@
             }
         ]
     }, 
-    "138": {
+    "139": {
         "info": {
             "solved": 4446, 
             "publish": "Saturday, 27th January 2007, 09:00 am", 
@@ -2375,7 +2377,7 @@
             }
         ]
     }, 
-    "139": {
+    "140": {
         "info": {
             "solved": 3365, 
             "publish": "Saturday, 3rd February 2007, 07:00 am", 
@@ -2391,7 +2393,7 @@
         }, 
         "images": []
     }, 
-    "140": {
+    "141": {
         "info": {
             "solved": 2993, 
             "publish": "Saturday, 17th February 2007, 05:00 am", 
@@ -2407,7 +2409,7 @@
         }, 
         "images": []
     }, 
-    "141": {
+    "142": {
         "info": {
             "solved": 4662, 
             "publish": "Saturday, 24th February 2007, 01:00 am", 
@@ -2423,7 +2425,7 @@
         }, 
         "images": []
     }, 
-    "142": {
+    "143": {
         "info": {
             "solved": 2066, 
             "publish": "Friday, 2nd March 2007, 09:00 pm", 
@@ -2441,10 +2443,14 @@
             {
                 "url": "https://projecteuler.net/project/images/p143_torricelli.gif", 
                 "name": "p143_torricelli.gif"
+            }, 
+            {
+                "url": "https://projecteuler.net/project/images/p144_2.gif", 
+                "name": "p144_2.gif"
             }
         ]
     }, 
-    "143": {
+    "144": {
         "info": {
             "solved": 4917, 
             "publish": "Friday, 9th March 2007, 05:00 pm", 
@@ -2462,14 +2468,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p144_1.gif", 
                 "name": "p144_1.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p144_2.gif", 
-                "name": "p144_2.gif"
             }
         ]
     }, 
-    "144": {
+    "145": {
         "info": {
             "solved": 13493, 
             "publish": "Friday, 16th March 2007, 01:00 pm", 
@@ -2485,7 +2487,7 @@
         }, 
         "images": []
     }, 
-    "145": {
+    "146": {
         "info": {
             "solved": 3980, 
             "publish": "Saturday, 24th March 2007, 09:00 am", 
@@ -2501,7 +2503,7 @@
         }, 
         "images": []
     }, 
-    "146": {
+    "147": {
         "info": {
             "solved": 2328, 
             "publish": "Saturday, 31st March 2007, 06:00 am", 
@@ -2522,7 +2524,7 @@
             }
         ]
     }, 
-    "147": {
+    "148": {
         "info": {
             "solved": 4091, 
             "publish": "Saturday, 7th April 2007, 02:00 am", 
@@ -2538,7 +2540,7 @@
         }, 
         "images": []
     }, 
-    "148": {
+    "149": {
         "info": {
             "solved": 3860, 
             "publish": "Friday, 13th April 2007, 10:00 pm", 
@@ -2554,7 +2556,7 @@
         }, 
         "images": []
     }, 
-    "149": {
+    "150": {
         "info": {
             "solved": 3157, 
             "publish": "Friday, 13th April 2007, 10:00 pm", 
@@ -2575,7 +2577,7 @@
             }
         ]
     }, 
-    "150": {
+    "151": {
         "info": {
             "solved": 4359, 
             "publish": "Friday, 20th April 2007, 06:00 pm", 
@@ -2596,7 +2598,7 @@
             }
         ]
     }, 
-    "151": {
+    "152": {
         "info": {
             "solved": 2029, 
             "publish": "Friday, 27th April 2007, 02:00 pm", 
@@ -2614,27 +2616,6 @@
             {
                 "url": "https://projecteuler.net/project/images/p152_sum.gif", 
                 "name": "p152_sum.gif"
-            }
-        ]
-    }, 
-    "152": {
-        "info": {
-            "solved": 2004, 
-            "publish": "Saturday, 5th May 2007, 10:00 am", 
-            "difficulty": 65
-        }, 
-        "files": [], 
-        "title": "Investigating Gaussian Integers", 
-        "url": "https://projecteuler.net/problem=153", 
-        "number": 153, 
-        "content": {
-            "text": "As we all know the equation x2=-1 has no solutions for real x.\nIf we however introduce the imaginary number i this equation has two solutions: x=i and x=-i.\nIf we go a step further the equation (x-3)2=-4 has two complex solutions: x=3+2i and x=3-2i.\nx=3+2i and x=3-2i are called each others' complex conjugate.\nNumbers of the form a+bi are called complex numbers.\nIn general a+bi and a\u2212bi are each other's complex conjugate.\nA Gaussian Integer is a complex number a+bi such that both a and b are integers.\nThe regular integers are also Gaussian integers (with b=0).\nTo distinguish them from Gaussian integers with b \u2260 0 we call such integers \"rational integers.\"\nA Gaussian integer is called a divisor of a rational integer n if the result is also a Gaussian integer.\nIf for example we divide 5 by 1+2i we can simplify <p153_formule1.gif> in the following manner:\nMultiply numerator and denominator by the complex conjugate of 1+2i: 1\u22122i.\nThe result is <p153_formule2.gif>.\nSo 1+2i is a divisor of 5.\nNote that 1+i is not a divisor of 5 because <p153_formule5.gif>.\nNote also that if the Gaussian Integer (a+bi) is a divisor of a rational integer n, then its complex conjugate (a\u2212bi) is also a divisor of n.\nIn fact, 5 has six divisors such that the real part is positive: {1, 1 + 2i, 1 \u2212 2i, 2 + i, 2 \u2212 i, 5}.\nThe following is a table of all of the divisors for the first five positive rational integers:\nn Gaussian integer divisors\nwith positive real partSum s(n) of\nthese divisors\n111\n21, 1+i, 1-i, 25\n31, 34\n41, 1+i, 1-i, 2, 2+2i, 2-2i,413\n51, 1+2i, 1-2i, 2+i, 2-i, 512\nFor divisors with positive real parts, then, we have: <p153_formule6>.gif.\nFor 1 \u2264 n \u2264 105, \u2211 s(n)=17924657155.\nWhat is \u2211 s(n) for 1 \u2264 n \u2264 108?", 
-            "html": "<p>As we all know the equation <var>x</var><sup>2</sup>=-1 has no solutions for real <var>x</var>.<br>If we however introduce the imaginary number <var>i</var> this equation has two solutions: <var>x=i</var> and <var>x=-i</var>.<br>If we go a step further the equation (<var>x</var>-3)<sup>2</sup>=-4 has two complex solutions: <var>x</var>=3+2<var>i</var> and <var>x</var>=3-2<var>i</var>.<br><var>x</var>=3+2<var>i</var> and <var>x</var>=3-2<var>i</var> are called each others' complex conjugate.<br>Numbers of the form <var>a</var>+<var>bi</var> are called complex numbers.<br>In general <var>a</var>+<var>bi</var> and <var>a</var>\u2212<var>bi</var> are each other's complex conjugate.</p><p>A Gaussian Integer is a complex number <var>a</var>+<var>bi</var> such that both <var>a</var> and <var>b</var> are integers.<br>The regular integers are also Gaussian integers (with <var>b</var>=0).<br>To distinguish them from Gaussian integers with <var>b</var> \u2260 0 we call such integers \"rational integers.\"<br>A Gaussian integer is called a divisor of a rational integer <var>n</var> if the result is also a Gaussian integer.<br>If for example we divide 5 by 1+2<var>i</var> we can simplify <img src=\"project/images/p153_formule1.gif\" style=\"vertical-align:middle;\" alt=\"\" border=\"0\"> in the following manner:<br>Multiply numerator and denominator by the complex conjugate of 1+2<var>i</var>: 1\u22122<var>i</var>.<br>The result is <img src=\"project/images/p153_formule2.gif\" alt=\"\" style=\"vertical-align:middle;\" border=\"0\">.<br>So 1+2<var>i</var> is a divisor of 5.<br>Note that 1+<var>i</var> is not a divisor of 5 because <img src=\"project/images/p153_formule5.gif\" style=\"vertical-align:middle;\" alt=\"\" border=\"0\">.<br>Note also that if the Gaussian Integer (<var>a</var>+<var>bi</var>) is a divisor of a rational integer <var>n</var>, then its complex conjugate (<var>a</var>\u2212<var>bi</var>) is also a divisor of <var>n</var>.</p><p>In fact, 5 has six divisors such that the real part is positive: {1, 1 + 2<var>i</var>, 1 \u2212 2<var>i</var>, 2 + <var>i</var>, 2 \u2212 <var>i</var>, 5}.<br>The following is a table of all of the divisors for the first five positive rational integers:</p><table align=\"center\" border=\"1\"><tbody><tr><td width=\"20\"><var>n</var></td><td> Gaussian integer divisors<br>with positive real part</td><td>Sum s(<var>n</var>) of <br>thesedivisors</td></tr><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>1, 1+<var>i</var>, 1-<var>i</var>, 2</td><td>5</td></tr><tr><td>3</td><td>1, 3</td><td>4</td></tr><tr><td>4</td><td>1, 1+<var>i</var>, 1-<var>i</var>, 2, 2+2<var>i</var>, 2-2<var>i</var>,4</td><td>13</td></tr><tr><td>5</td><td>1, 1+2<var>i</var>, 1-2<var>i</var>, 2+<var>i</var>, 2-<var>i</var>, 5</td><td>12</td></tr></tbody></table><p>For divisors with positive real parts, then, we have: <img src=\"project/images/p153_formule6.gif\" style=\"vertical-align:middle;\" alt=\"\" border=\"0\">.</p><p>For 1 \u2264 <var>n</var> \u2264 10<sup>5</sup>, \u2211 s(<var>n</var>)=17924657155.</p><p>What is \u2211 s(<var>n</var>) for 1 \u2264 <var>n</var> \u2264 10<sup>8</sup>?</p>"
-        }, 
-        "images": [
-            {
-                "url": "https://projecteuler.net/project/images/p153_formule1.gif", 
-                "name": "p153_formule1.gif"
             }, 
             {
                 "url": "https://projecteuler.net/project/images/p153_formule2.gif", 
@@ -2652,6 +2633,27 @@
     }, 
     "153": {
         "info": {
+            "solved": 2004, 
+            "publish": "Saturday, 5th May 2007, 10:00 am", 
+            "difficulty": 65
+        }, 
+        "files": [], 
+        "title": "Investigating Gaussian Integers", 
+        "url": "https://projecteuler.net/problem=153", 
+        "number": 153, 
+        "content": {
+            "text": "As we all know the equation x2=-1 has no solutions for real x.\nIf we however introduce the imaginary number i this equation has two solutions: x=i and x=-i.\nIf we go a step further the equation (x-3)2=-4 has two complex solutions: x=3+2i and x=3-2i.\nx=3+2i and x=3-2i are called each others' complex conjugate.\nNumbers of the form a+bi are called complex numbers.\nIn general a+bi and a\u2212bi are each other's complex conjugate.\nA Gaussian Integer is a complex number a+bi such that both a and b are integers.\nThe regular integers are also Gaussian integers (with b=0).\nTo distinguish them from Gaussian integers with b \u2260 0 we call such integers \"rational integers.\"\nA Gaussian integer is called a divisor of a rational integer n if the result is also a Gaussian integer.\nIf for example we divide 5 by 1+2i we can simplify <p153_formule1.gif> in the following manner:\nMultiply numerator and denominator by the complex conjugate of 1+2i: 1\u22122i.\nThe result is <p153_formule2.gif>.\nSo 1+2i is a divisor of 5.\nNote that 1+i is not a divisor of 5 because <p153_formule5.gif>.\nNote also that if the Gaussian Integer (a+bi) is a divisor of a rational integer n, then its complex conjugate (a\u2212bi) is also a divisor of n.\nIn fact, 5 has six divisors such that the real part is positive: {1, 1 + 2i, 1 \u2212 2i, 2 + i, 2 \u2212 i, 5}.\nThe following is a table of all of the divisors for the first five positive rational integers:\nn Gaussian integer divisors\nwith positive real partSum s(n) of\nthese divisors\n111\n21, 1+i, 1-i, 25\n31, 34\n41, 1+i, 1-i, 2, 2+2i, 2-2i,413\n51, 1+2i, 1-2i, 2+i, 2-i, 512\nFor divisors with positive real parts, then, we have: <p153_formule6>.gif.\nFor 1 \u2264 n \u2264 105, \u2211 s(n)=17924657155.\nWhat is \u2211 s(n) for 1 \u2264 n \u2264 108?", 
+            "html": "<p>As we all know the equation <var>x</var><sup>2</sup>=-1 has no solutions for real <var>x</var>.<br>If we however introduce the imaginary number <var>i</var> this equation has two solutions: <var>x=i</var> and <var>x=-i</var>.<br>If we go a step further the equation (<var>x</var>-3)<sup>2</sup>=-4 has two complex solutions: <var>x</var>=3+2<var>i</var> and <var>x</var>=3-2<var>i</var>.<br><var>x</var>=3+2<var>i</var> and <var>x</var>=3-2<var>i</var> are called each others' complex conjugate.<br>Numbers of the form <var>a</var>+<var>bi</var> are called complex numbers.<br>In general <var>a</var>+<var>bi</var> and <var>a</var>\u2212<var>bi</var> are each other's complex conjugate.</p><p>A Gaussian Integer is a complex number <var>a</var>+<var>bi</var> such that both <var>a</var> and <var>b</var> are integers.<br>The regular integers are also Gaussian integers (with <var>b</var>=0).<br>To distinguish them from Gaussian integers with <var>b</var> \u2260 0 we call such integers \"rational integers.\"<br>A Gaussian integer is called a divisor of a rational integer <var>n</var> if the result is also a Gaussian integer.<br>If for example we divide 5 by 1+2<var>i</var> we can simplify <img src=\"project/images/p153_formule1.gif\" style=\"vertical-align:middle;\" alt=\"\" border=\"0\"> in the following manner:<br>Multiply numerator and denominator by the complex conjugate of 1+2<var>i</var>: 1\u22122<var>i</var>.<br>The result is <img src=\"project/images/p153_formule2.gif\" alt=\"\" style=\"vertical-align:middle;\" border=\"0\">.<br>So 1+2<var>i</var> is a divisor of 5.<br>Note that 1+<var>i</var> is not a divisor of 5 because <img src=\"project/images/p153_formule5.gif\" style=\"vertical-align:middle;\" alt=\"\" border=\"0\">.<br>Note also that if the Gaussian Integer (<var>a</var>+<var>bi</var>) is a divisor of a rational integer <var>n</var>, then its complex conjugate (<var>a</var>\u2212<var>bi</var>) is also a divisor of <var>n</var>.</p><p>In fact, 5 has six divisors such that the real part is positive: {1, 1 + 2<var>i</var>, 1 \u2212 2<var>i</var>, 2 + <var>i</var>, 2 \u2212 <var>i</var>, 5}.<br>The following is a table of all of the divisors for the first five positive rational integers:</p><table align=\"center\" border=\"1\"><tbody><tr><td width=\"20\"><var>n</var></td><td> Gaussian integer divisors<br>with positive real part</td><td>Sum s(<var>n</var>) of <br>thesedivisors</td></tr><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>1, 1+<var>i</var>, 1-<var>i</var>, 2</td><td>5</td></tr><tr><td>3</td><td>1, 3</td><td>4</td></tr><tr><td>4</td><td>1, 1+<var>i</var>, 1-<var>i</var>, 2, 2+2<var>i</var>, 2-2<var>i</var>,4</td><td>13</td></tr><tr><td>5</td><td>1, 1+2<var>i</var>, 1-2<var>i</var>, 2+<var>i</var>, 2-<var>i</var>, 5</td><td>12</td></tr></tbody></table><p>For divisors with positive real parts, then, we have: <img src=\"project/images/p153_formule6.gif\" style=\"vertical-align:middle;\" alt=\"\" border=\"0\">.</p><p>For 1 \u2264 <var>n</var> \u2264 10<sup>5</sup>, \u2211 s(<var>n</var>)=17924657155.</p><p>What is \u2211 s(<var>n</var>) for 1 \u2264 <var>n</var> \u2264 10<sup>8</sup>?</p>"
+        }, 
+        "images": [
+            {
+                "url": "https://projecteuler.net/project/images/p153_formule1.gif", 
+                "name": "p153_formule1.gif"
+            }
+        ]
+    }, 
+    "154": {
+        "info": {
             "solved": 2038, 
             "publish": "Saturday, 12th May 2007, 06:00 am", 
             "difficulty": 65
@@ -2668,10 +2670,18 @@
             {
                 "url": "https://projecteuler.net/project/images/p154_pyramid.gif", 
                 "name": "p154_pyramid.gif"
+            }, 
+            {
+                "url": "https://projecteuler.net/project/images/p155_capacitors1.gif", 
+                "name": "p155_capacitors1.gif"
+            }, 
+            {
+                "url": "https://projecteuler.net/project/images/p155_capsform.gif", 
+                "name": "p155_capsform.gif"
             }
         ]
     }, 
-    "154": {
+    "155": {
         "info": {
             "solved": 2809, 
             "publish": "Saturday, 19th May 2007, 02:00 am", 
@@ -2689,18 +2699,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p155_capsmu.gif", 
                 "name": "p155_capsmu.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p155_capacitors1.gif", 
-                "name": "p155_capacitors1.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p155_capsform.gif", 
-                "name": "p155_capsform.gif"
             }
         ]
     }, 
-    "155": {
+    "156": {
         "info": {
             "solved": 1837, 
             "publish": "Friday, 25th May 2007, 10:00 pm", 
@@ -2716,7 +2718,7 @@
         }, 
         "images": []
     }, 
-    "156": {
+    "157": {
         "info": {
             "solved": 2081, 
             "publish": "Friday, 1st June 2007, 06:00 pm", 
@@ -2732,7 +2734,7 @@
         }, 
         "images": []
     }, 
-    "157": {
+    "158": {
         "info": {
             "solved": 2865, 
             "publish": "Friday, 15th June 2007, 02:00 pm", 
@@ -2748,7 +2750,7 @@
         }, 
         "images": []
     }, 
-    "158": {
+    "159": {
         "info": {
             "solved": 2583, 
             "publish": "Saturday, 30th June 2007, 02:00 pm", 
@@ -2764,7 +2766,7 @@
         }, 
         "images": []
     }, 
-    "159": {
+    "160": {
         "info": {
             "solved": 2724, 
             "publish": "Friday, 7th September 2007, 02:00 pm", 
@@ -2778,9 +2780,18 @@
             "text": "For any N, let f(N) be the last five digits before the trailing zeroes in N!.\nFor example,\n9! = 362880 so f(9)=36288\n10! = 3628800 so f(10)=36288\n20! = 2432902008176640000 so f(20)=17664\nFind f(1,000,000,000,000)", 
             "html": "<p>For any N, let f(N) be the last five digits before the trailing zeroes in N!.<br>For example,</p><p style=\"margin-left:50px;\">9! = 362880 so f(9)=36288<br>10! = 3628800 so f(10)=36288<br>20! = 2432902008176640000 so f(20)=17664</p><p>Find f(1,000,000,000,000)</p>"
         }, 
-        "images": []
+        "images": [
+            {
+                "url": "https://projecteuler.net/project/images/p161_trio3.gif", 
+                "name": "p161_trio3.gif"
+            }, 
+            {
+                "url": "https://projecteuler.net/project/images/p161_k9.gif", 
+                "name": "p161_k9.gif"
+            }
+        ]
     }, 
-    "160": {
+    "161": {
         "info": {
             "solved": 1611, 
             "publish": "Friday, 21st September 2007, 06:00 pm", 
@@ -2798,18 +2809,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p161_trio1.gif", 
                 "name": "p161_trio1.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p161_trio3.gif", 
-                "name": "p161_trio3.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p161_k9.gif", 
-                "name": "p161_k9.gif"
             }
         ]
     }, 
-    "161": {
+    "162": {
         "info": {
             "solved": 4378, 
             "publish": "Friday, 5th October 2007, 10:00 pm", 
@@ -2825,7 +2828,7 @@
         }, 
         "images": []
     }, 
-    "162": {
+    "163": {
         "info": {
             "solved": 1415, 
             "publish": "Saturday, 13th October 2007, 02:00 am", 
@@ -2846,7 +2849,7 @@
             }
         ]
     }, 
-    "163": {
+    "164": {
         "info": {
             "solved": 4606, 
             "publish": "Saturday, 20th October 2007, 06:00 am", 
@@ -2862,7 +2865,7 @@
         }, 
         "images": []
     }, 
-    "164": {
+    "165": {
         "info": {
             "solved": 2013, 
             "publish": "Saturday, 27th October 2007, 10:00 am", 
@@ -2878,7 +2881,7 @@
         }, 
         "images": []
     }, 
-    "165": {
+    "166": {
         "info": {
             "solved": 3231, 
             "publish": "Saturday, 3rd November 2007, 01:00 pm", 
@@ -2894,7 +2897,7 @@
         }, 
         "images": []
     }, 
-    "166": {
+    "167": {
         "info": {
             "solved": 1316, 
             "publish": "Friday, 9th November 2007, 01:00 pm", 
@@ -2910,7 +2913,7 @@
         }, 
         "images": []
     }, 
-    "167": {
+    "168": {
         "info": {
             "solved": 2075, 
             "publish": "Friday, 16th November 2007, 05:00 pm", 
@@ -2926,7 +2929,7 @@
         }, 
         "images": []
     }, 
-    "168": {
+    "169": {
         "info": {
             "solved": 4047, 
             "publish": "Friday, 23rd November 2007, 09:00 pm", 
@@ -2942,7 +2945,7 @@
         }, 
         "images": []
     }, 
-    "169": {
+    "170": {
         "info": {
             "solved": 1519, 
             "publish": "Saturday, 1st December 2007, 01:00 am", 
@@ -2958,7 +2961,7 @@
         }, 
         "images": []
     }, 
-    "170": {
+    "171": {
         "info": {
             "solved": 2153, 
             "publish": "Saturday, 8th December 2007, 05:00 am", 
@@ -2974,7 +2977,7 @@
         }, 
         "images": []
     }, 
-    "171": {
+    "172": {
         "info": {
             "solved": 3013, 
             "publish": "Saturday, 15th December 2007, 09:00 am", 
@@ -2990,7 +2993,7 @@
         }, 
         "images": []
     }, 
-    "172": {
+    "173": {
         "info": {
             "solved": 7503, 
             "publish": "Saturday, 22nd December 2007, 01:00 pm", 
@@ -3011,7 +3014,7 @@
             }
         ]
     }, 
-    "173": {
+    "174": {
         "info": {
             "solved": 4812, 
             "publish": "Saturday, 22nd December 2007, 01:00 pm", 
@@ -3032,7 +3035,7 @@
             }
         ]
     }, 
-    "174": {
+    "175": {
         "info": {
             "solved": 1392, 
             "publish": "Friday, 28th December 2007, 01:00 pm", 
@@ -3048,7 +3051,7 @@
         }, 
         "images": []
     }, 
-    "175": {
+    "176": {
         "info": {
             "solved": 1496, 
             "publish": "Friday, 4th January 2008, 05:00 pm", 
@@ -3064,7 +3067,7 @@
         }, 
         "images": []
     }, 
-    "176": {
+    "177": {
         "info": {
             "solved": 959, 
             "publish": "Friday, 11th January 2008, 09:00 pm", 
@@ -3085,7 +3088,7 @@
             }
         ]
     }, 
-    "177": {
+    "178": {
         "info": {
             "solved": 2672, 
             "publish": "Saturday, 19th January 2008, 01:00 am", 
@@ -3101,7 +3104,7 @@
         }, 
         "images": []
     }, 
-    "178": {
+    "179": {
         "info": {
             "solved": 9310, 
             "publish": "Saturday, 26th January 2008, 05:00 am", 
@@ -3117,7 +3120,7 @@
         }, 
         "images": []
     }, 
-    "179": {
+    "180": {
         "info": {
             "solved": 1209, 
             "publish": "Saturday, 2nd February 2008, 09:00 am", 
@@ -3133,7 +3136,7 @@
         }, 
         "images": []
     }, 
-    "180": {
+    "181": {
         "info": {
             "solved": 1564, 
             "publish": "Saturday, 9th February 2008, 01:00 pm", 
@@ -3149,7 +3152,7 @@
         }, 
         "images": []
     }, 
-    "181": {
+    "182": {
         "info": {
             "solved": 2054, 
             "publish": "Friday, 15th February 2008, 01:00 pm", 
@@ -3165,7 +3168,7 @@
         }, 
         "images": []
     }, 
-    "182": {
+    "183": {
         "info": {
             "solved": 3811, 
             "publish": "Friday, 22nd February 2008, 05:00 pm", 
@@ -3181,7 +3184,7 @@
         }, 
         "images": []
     }, 
-    "183": {
+    "184": {
         "info": {
             "solved": 1243, 
             "publish": "Friday, 29th February 2008, 09:00 pm", 
@@ -3202,7 +3205,7 @@
             }
         ]
     }, 
-    "184": {
+    "185": {
         "info": {
             "solved": 2466, 
             "publish": "Saturday, 8th March 2008, 01:00 am", 
@@ -3218,7 +3221,7 @@
         }, 
         "images": []
     }, 
-    "185": {
+    "186": {
         "info": {
             "solved": 2260, 
             "publish": "Saturday, 15th March 2008, 05:00 am", 
@@ -3234,7 +3237,7 @@
         }, 
         "images": []
     }, 
-    "186": {
+    "187": {
         "info": {
             "solved": 9262, 
             "publish": "Saturday, 22nd March 2008, 09:00 am", 
@@ -3250,7 +3253,7 @@
         }, 
         "images": []
     }, 
-    "187": {
+    "188": {
         "info": {
             "solved": 5285, 
             "publish": "Friday, 4th April 2008, 02:00 pm", 
@@ -3264,9 +3267,14 @@
             "text": "The hyperexponentiation or tetration of a number a by a positive integer b, denoted by a\u2191\u2191b or ba, is recursively defined by:\na\u2191\u21911 = a,\na\u2191\u2191(k+1) = a(a\u2191\u2191k).\nThus we have e.g. 3\u2191\u21912 = 33 = 27, hence 3\u2191\u21913 = 327 = 7625597484987 and 3\u2191\u21914 is roughly 103.6383346400240996*10^12.\nFind the last 8 digits of 1777\u2191\u21911855.", 
             "html": "<p>The <span style=\"font-style:italic;\">hyperexponentiation</span> or <span style=\"font-style:italic;\">tetration</span> of a number a by a positive integer b, denoted by a\u2191\u2191b or <sup>b</sup>a, is recursively defined by:<br><br>a\u2191\u21911 = a,<br>a\u2191\u2191(k+1) = a<sup>(a\u2191\u2191k)</sup>.</p><p>Thus we have e.g. 3\u2191\u21912 = 3<sup>3</sup> = 27, hence 3\u2191\u21913 = 3<sup>27</sup> = 7625597484987 and 3\u2191\u21914 is roughly 10<sup>3.6383346400240996*10^12</sup>.</p><p>Find the last 8 digits of 1777\u2191\u21911855.</p>"
         }, 
-        "images": []
+        "images": [
+            {
+                "url": "https://projecteuler.net/project/images/p189_colours.gif", 
+                "name": "p189_colours.gif"
+            }
+        ]
     }, 
-    "188": {
+    "189": {
         "info": {
             "solved": 1618, 
             "publish": "Friday, 11th April 2008, 05:00 pm", 
@@ -3284,14 +3292,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p189_grid.gif", 
                 "name": "p189_grid.gif"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p189_colours.gif", 
-                "name": "p189_colours.gif"
             }
         ]
     }, 
-    "189": {
+    "190": {
         "info": {
             "solved": 3374, 
             "publish": "Friday, 18th April 2008, 10:00 pm", 
@@ -3307,7 +3311,7 @@
         }, 
         "images": []
     }, 
-    "190": {
+    "191": {
         "info": {
             "solved": 5815, 
             "publish": "Saturday, 26th April 2008, 01:00 am", 
@@ -3323,7 +3327,7 @@
         }, 
         "images": []
     }, 
-    "191": {
+    "192": {
         "info": {
             "solved": 1228, 
             "publish": "Saturday, 3rd May 2008, 05:00 am", 
@@ -3339,7 +3343,7 @@
         }, 
         "images": []
     }, 
-    "192": {
+    "193": {
         "info": {
             "solved": 2581, 
             "publish": "Saturday, 10th May 2008, 01:00 pm", 
@@ -3353,9 +3357,18 @@
             "text": "A positive integer n is called squarefree, if no square of a prime divides n, thus 1, 2, 3, 5, 6, 7, 10, 11 are squarefree, but not 4, 8, 9, 12.\nHow many squarefree numbers are there below 250?", 
             "html": "<p>A positive integer <var>n</var> is called squarefree, if no square of a prime divides <var>n</var>, thus 1, 2, 3, 5, 6, 7, 10, 11 are squarefree, but not 4, 8, 9, 12.</p><p>How many squarefree numbers are there below 2<sup>50</sup>?</p>"
         }, 
-        "images": []
+        "images": [
+            {
+                "url": "https://projecteuler.net/project/images/p194_GraphB.png", 
+                "name": "p194_GraphB.png"
+            }, 
+            {
+                "url": "https://projecteuler.net/project/images/p194_Fig.png", 
+                "name": "p194_Fig.png"
+            }
+        ]
     }, 
-    "193": {
+    "194": {
         "info": {
             "solved": 1074, 
             "publish": "Saturday, 17th May 2008, 10:00 am", 
@@ -3373,18 +3386,10 @@
             {
                 "url": "https://projecteuler.net/project/images/p194_GraphA.png", 
                 "name": "p194_GraphA.png"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p194_GraphB.png", 
-                "name": "p194_GraphB.png"
-            }, 
-            {
-                "url": "https://projecteuler.net/project/images/p194_Fig.png", 
-                "name": "p194_Fig.png"
             }
         ]
     }, 
-    "194": {
+    "195": {
         "info": {
             "solved": 1034, 
             "publish": "Friday, 23rd May 2008, 02:00 pm", 
@@ -3400,7 +3405,7 @@
         }, 
         "images": []
     }, 
-    "195": {
+    "196": {
         "info": {
             "solved": 2001, 
             "publish": "Friday, 30th May 2008, 06:00 pm", 
@@ -3416,7 +3421,7 @@
         }, 
         "images": []
     }, 
-    "196": {
+    "197": {
         "info": {
             "solved": 4087, 
             "publish": "Friday, 6th June 2008, 10:00 pm", 
@@ -3432,7 +3437,7 @@
         }, 
         "images": []
     }, 
-    "197": {
+    "198": {
         "info": {
             "solved": 845, 
             "publish": "Saturday, 14th June 2008, 02:00 am", 
@@ -3448,7 +3453,7 @@
         }, 
         "images": []
     }, 
-    "198": {
+    "199": {
         "info": {
             "solved": 1493, 
             "publish": "Saturday, 21st June 2008, 06:00 am", 
