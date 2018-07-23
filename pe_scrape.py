@@ -14,15 +14,15 @@ def get_info(soup):
   raw_info = soup.find('span', {'style' : 'left:-400px;width:450px;font-size:80%;'})
   
   # get published, solved, and difficulty information using regex
-  m = re.search(r'Published on (.+); Solved by (\d+);<br/>Difficulty rating: (\d+)%', str(raw_info))
-  published = m.group(1)
-  solved = m.group(2)
-  difficulty = m.group(3)
+  published = re.search(r'Published on (.+);', str(raw_info))
+  solved = re.search(r'Solved by (\d+)', str(raw_info))
+  difficulty = re.search(r'Difficulty rating (\d+)%', str(raw_info))
   
   return {
-    'published' : published,
-    'solved' : solved,
-    'difficulty' : difficulty
+    'published' : published.group(1),
+    'solved' : solved.group(1),
+    # since newly published problems don't have a difficulty, put None if it isn't there
+    'difficulty' : difficulty.group(1) if difficulty != None else None
   }
 
 
@@ -103,19 +103,19 @@ def get_num_problems():
 
 ##########################################################################################################
 
-start = 96
-stop = 96
-# stop = get_num_problems()
+start = 1
+# stop = 10
+stop = get_num_problems()
 
 filename = '{}_{}.json'.format(start, stop)
 
 output = {}
 
 for num in range(start, stop + 1):
-  print('Scraping problem {}'.format(num))
+  print('Scraping problem {} / {}'.format(num, stop), end='\r')
   output[num] = scrape(num)
 
 with open(filename, 'w+') as f:
   f.write(json.dumps(output, indent=2))
 
-print('Problems {} - {} successfully scraped and saved to {}'.format(start, stop, filename))
+print('\nProblems {} - {} successfully scraped and saved to {}'.format(start, stop, filename))
