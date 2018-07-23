@@ -29,7 +29,7 @@ def get_info(soup):
 def get_images(problem_content):
   images = []
   for tag in problem_content.descendants:
-    if tag.name == 'img':
+    if tag.name == 'img' and tag['src'] != 'images/spacer.gif':
       path = tag['src']
       images.append(path)
 
@@ -103,8 +103,8 @@ def get_num_problems():
 
 ##########################################################################################################
 
-start = 1
-stop = 5
+start = 96
+stop = 96
 # stop = get_num_problems()
 
 filename = '{}_{}.json'.format(start, stop)
