@@ -20,7 +20,7 @@ def get_info(soup):
   
   return {
     'published' : published.group(1),
-    'solved' : solved.group(1),
+    'solved' : int(solved.group(1)),
     # since newly published problems don't have a difficulty, put None if it isn't there
     'difficulty' : difficulty.group(1) if difficulty != None else None
   }
