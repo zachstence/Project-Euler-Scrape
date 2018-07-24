@@ -2,10 +2,7 @@
 A complete web-scrape of every Project Euler programming challenge problem including information about the problem, the problems themselves, and all files/images.
 
 ### What information was scraped?
-# FIX BELOW
 ![Example of scraped information](https://github.com/zachstence/Project-Euler-Scrape/raw/master/example.png)
-# FIX ABOVE
-
 I extracted as much information as I could find that was useful, including:
 * Problem number (purple)
 * Problem title (blue)
