@@ -16,13 +16,13 @@ def get_info(soup):
   # get published, solved, and difficulty information using regex
   published = re.search(r'Published on (.+);', str(raw_info))
   solved = re.search(r'Solved by (\d+)', str(raw_info))
-  difficulty = re.search(r'Difficulty rating (\d+)%', str(raw_info))
+  difficulty = re.search(r'Difficulty rating: (\d+)%', str(raw_info))
   
   return {
     'published' : published.group(1),
     'solved' : int(solved.group(1)),
     # since newly published problems don't have a difficulty, put None if it isn't there
-    'difficulty' : difficulty.group(1) if difficulty != None else None
+    'difficulty' : int(difficulty.group(1)) if difficulty != None else None
   }
 
 
@@ -34,7 +34,7 @@ def get_images(problem_content):
       images.append(path)
 
       r = requests.get('http://projecteuler.net/' + path, stream=True)
-      with open('./images/{}'.format(path[15:]), 'wb+') as f:
+      with open('./data/images/{}'.format(path[15:]), 'wb+') as f:
         shutil.copyfileobj(r.raw, f)
 
   return images
@@ -48,7 +48,7 @@ def get_files(problem_content):
       files.append(path)
 
       r = requests.get('http://projecteuler.net/' + path)
-      with open('./files/{}'.format(path[18:]), 'w+') as f:
+      with open('./data/files/{}'.format(path[18:]), 'w+') as f:
         f.write(r.text)
 
   return files
@@ -107,7 +107,7 @@ start = 1
 # stop = 10
 stop = get_num_problems()
 
-filename = '{}_{}.json'.format(start, stop)
+filename = './data/{}_{}.json'.format(start, stop)
 
 output = {}
 
